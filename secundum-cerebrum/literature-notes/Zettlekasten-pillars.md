@@ -26,26 +26,10 @@ They have some strict rules:
 **Finis effectus**
 This is my personal touch. It represents a collection of the output of the the zettelkasten process: videos, articles, apps or programs
 
-**connections**
+## Connections
 [[My Zettelkasten Implementation]]
 
-
 ---
-# References
+## References
 
-<div class="rich-link-card-container"><a class="rich-link-card" href="https://www.youtube.com/watch?v=yqKspwjXu18&t=479s" target="_blank">
-	<div class="rich-link-image-container">
-		<div class="rich-link-image" style="background-image: url('https://www.youtube.com/embed/yqKspwjXu18?feature=oembed')">
-	</div>
-	</div>
-	<div class="rich-link-card-text">
-		<h1 class="rich-link-card-title">Zettelkasten Note-Taking: What I wish I knew about Smart Notes</h1>
-		<p class="rich-link-card-description">
-		I'm building a note-taking app to help you study, learn, think, write and publish-with maximum efficiency and consistency. Check it out at:https://join.flowt...
-		</p>
-		<p class="rich-link-href">
-		https://www.youtube.com/watch?v=yqKspwjXu18&t=479s
-		</p>
-	</div>
-</a></div>
-
+[Zettelkasten Note-Taking: what I whish I knew about Smart Notes](https://www.youtube.com/embed/yqKspwjXu18?feature=oembed)
