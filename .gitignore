@@ -1,0 +1,5 @@
+# obsidian related settings
+.obsidian
+# MacOS specific files
+.DS_Store
+
